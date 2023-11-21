@@ -17,6 +17,6 @@ As for the test dataset, we have two datasets:
 
 2. Real dataset (https://drive.google.com/file/d/169wLkCgy5-9n7PcFkOf1X3SxLsknmzBo/view?usp=sharing), we have the image and the mask, under image folder, there are 7 DLO folders, each has A (unoccluded) and B with a, b, c, d, e, 5 different poses. In each folder of the pose, there is a pc folder containing the point cloud, and a rgb folder containing the RGB image. The first image is unoccluded, and the rest are randomly occuluded. The mask dataset follows the same structure but only have rgb folder, which contains the labelled masks.
 
-We will further improve the code (more in-detailed comments, faster running speed) before we release on public, e.g., on GitHub. Please feel free to contact us (zhaole.sun@ed.ac.uk) if you have any questions. Thanks!
+We will further update the code (more in-detailed comments, faster running speed). Please feel free to contact us (zhaole.sun@ed.ac.uk) if you have any questions. Thanks!
 
 
